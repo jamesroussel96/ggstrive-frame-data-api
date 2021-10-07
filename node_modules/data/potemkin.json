@@ -1,0 +1,328 @@
+[    {
+        "command": "5p",
+        "damage": "30",
+        "guard": "all",
+        "startup": "5",
+        "active": "5",
+        "recovery": "6",
+        "on-block": "+1",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5k",
+        "damage": "36",
+        "guard": "low",
+        "startup": "10",
+        "active": "9",
+        "recovery": "9",
+        "on-block": "-4",
+        "invulnerability": "none"
+    },
+    {
+        "command": "c.s",
+        "damage": "45",
+        "guard": "all",
+        "startup": "8",
+        "active": "4",
+        "recovery": "11",
+        "on-block": "+4",
+        "invulnerability": "none"
+    },
+    {
+        "command": "f.s",
+        "damage": "40",
+        "guard": "all",
+        "startup": "12",
+        "active": "7",
+        "recovery": "18",
+        "on-block": "-8",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5h",
+        "damage": "60",
+        "guard": "all",
+        "startup": "16",
+        "active": "5",
+        "recovery": "25",
+        "on-block": "-11",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5d",
+        "damage": "50[62]",
+        "guard": "high",
+        "startup": "20~27[28]",
+        "active": "8",
+        "recovery": "21",
+        "on-block": "-15[-10]",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6p",
+        "damage": "42",
+        "guard": "all",
+        "startup": "11",
+        "active": "7",
+        "recovery": "25",
+        "on-block": "-15",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6s",
+        "damage": "45",
+        "guard": "all",
+        "startup": "22",
+        "active": "5",
+        "recovery": "18",
+        "on-block": "-6",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6h",
+        "damage": "90",
+        "guard": "all",
+        "startup": "23",
+        "active": "5",
+        "recovery": "29",
+        "on-block": "-15",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2p",
+        "damage": "26",
+        "guard": "all",
+        "startup": "8",
+        "active": "4",
+        "recovery": "9",
+        "on-block": "-1",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2k",
+        "damage": "30",
+        "guard": "low",
+        "startup": "10",
+        "active": "4",
+        "recovery": "14",
+        "on-block": "-4",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2s",
+        "damage": "45",
+        "guard": "all",
+        "startup": "14",
+        "active": "3",
+        "recovery": "18",
+        "on-block": "-4",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2h",
+        "damage": "55",
+        "guard": "all",
+        "startup": "13",
+        "active": "5",
+        "recovery": "35",
+        "on-block": "-21",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2d",
+        "damage": "40",
+        "guard": "low",
+        "startup": "13",
+        "active": "7",
+        "recovery": "21",
+        "on-block": "-11",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.p",
+        "damage": "30",
+        "guard": "high",
+        "startup": "7",
+        "active": "6",
+        "recovery": "6",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.k",
+        "damage": "36",
+        "guard": "high",
+        "startup": "10",
+        "active": "6",
+        "recovery": "15",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.s",
+        "damage": "45",
+        "guard": "high",
+        "startup": "13",
+        "active": "5",
+        "recovery": "23",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.h",
+        "damage": "55",
+        "guard": "high",
+        "startup": "12",
+        "active": "4",
+        "recovery": "16",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.d",
+        "damage": "50",
+        "guard": "high",
+        "startup": "13",
+        "active": "until landing",
+        "recovery": "9 on landing",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "ground throw",
+        "damage": "90",
+        "guard": "ground throw",
+        "startup": "2",
+        "active": "3",
+        "recovery": "38",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "air throw",
+        "damage": "90",
+        "guard": "air throw",
+        "startup": "2",
+        "active": "3",
+        "recovery": "until landing+10",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "potemkin buster",
+        "damage": "175",
+        "guard": "ground throw",
+        "startup": "5",
+        "active": "4",
+        "recovery": "37",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "heat knuckle",
+        "damage": "0,8*7,60",
+        "guard": "air guard crush",
+        "startup": "12",
+        "active": "4",
+        "recovery": "18",
+        "on-block": "+10~+1",
+        "invulnerability": "none"
+    },
+    {
+        "command": "mega fist 236p",
+        "damage": "60",
+        "guard": "high",
+        "startup": "25",
+        "active": "7",
+        "recovery": "16",
+        "on-block": "-6",
+        "invulnerability": "none"
+    },
+    {
+        "command": "mega fist 214p",
+        "damage": "60(80)",
+        "guard": "high",
+        "startup": "25",
+        "active": "7",
+        "recovery": "6",
+        "on-block": "+4(-2)",
+        "invulnerability": "none"
+    },
+    {
+        "command": "slide head",
+        "damage": "0",
+        "guard": "low",
+        "startup": "29",
+        "active": "2",
+        "recovery": "28",
+        "on-block": "0",
+        "invulnerability": "1~14f Strike"
+    },
+    {
+        "command": "hammer fall",
+        "damage": "58",
+        "guard": "all",
+        "startup": "18~47",
+        "active": "2",
+        "recovery": "26",
+        "on-block": "-9",
+        "invulnerability": "none"
+    },
+    {
+        "command": "hammer fall break",
+        "damage": "none",
+        "guard": "none",
+        "startup": "none",
+        "active": "none",
+        "recovery": "27",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "f.d.b flick",
+        "damage": "55[75]",
+        "guard": "all",
+        "startup": "21~28[28~38]",
+        "active": "3",
+        "recovery": "20",
+        "on-block": "-6",
+        "invulnerability": "none"
+    },
+    {
+        "command": "f.d.b reflected",
+        "damage": "50",
+        "guard": "all",
+        "startup": "1",
+        "active": "none",
+        "recovery": "none",
+        "on-block": "+11",
+        "invulnerability": "none"
+    },
+    {   "command": "garuda impact",
+        "damage": "73",
+        "guard": "all(guard crush)",
+        "startup": "28",
+        "active": "11",
+        "recovery": "24",
+        "on-block": "+19",
+        "invulnerability": "none"
+    },
+    {   "command": "heavenly potemkin buster",
+        "damage": "220",
+        "guard": "air unblockable",
+        "startup": "12+0",
+        "active": "15",
+        "recovery": "16",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {   "command": "giganter kai",
+        "damage": "120",
+        "guard": "all",
+        "startup": "10+9",
+        "active": "3,301",
+        "recovery": "2,28",
+        "on-block": "+1",
+        "invulnerability": "none"
+    }
+]

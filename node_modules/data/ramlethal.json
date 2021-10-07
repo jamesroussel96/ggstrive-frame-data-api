@@ -1,0 +1,320 @@
+[    {
+        "command": "5p",
+        "damage": "22",
+        "guard": "all",
+        "startup": "5",
+        "active": "4",
+        "recovery": "8",
+        "on-block": "-2",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5k",
+        "damage": "30",
+        "guard": "all",
+        "startup": "7",
+        "active": "3",
+        "recovery": "11",
+        "on-block": "-2",
+        "invulnerability": "none"
+    },
+    {
+        "command": "c.s",
+        "damage": "40",
+        "guard": "all",
+        "startup": "7",
+        "active": "6",
+        "recovery": "13",
+        "on-block": "-2",
+        "invulnerability": "none"
+    },
+    {
+        "command": "f.s",
+        "damage": "32[25]",
+        "guard": "all",
+        "startup": "11",
+        "active": "6",
+        "recovery": "21",
+        "on-block": "-10[-13]",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5h",
+        "damage": "42[33]",
+        "guard": "all",
+        "startup": "12",
+        "active": "3",
+        "recovery": "28",
+        "on-block": "-12[-13]",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5d",
+        "damage": "45[56]",
+        "guard": "high",
+        "startup": "20[28]",
+        "active": "2",
+        "recovery": "27",
+        "on-block": "-15[-10]",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6p",
+        "damage": "30",
+        "guard": "all",
+        "startup": "9",
+        "active": "5",
+        "recovery": "18",
+        "on-block": "-9",
+        "invulnerability": "1~2f upper body, 3~13F above knees"
+    },
+    {
+        "command": "6s",
+        "damage": "50[40]",
+        "guard": "all",
+        "startup": "18",
+        "active": "2",
+        "recovery": "33",
+        "on-block": "-16[-18]",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2p",
+        "damage": "22",
+        "guard": "all",
+        "startup": "6",
+        "active": "4",
+        "recovery": "9",
+        "on-block": "-3",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2k",
+        "damage": "26",
+        "guard": "low",
+        "startup": "6",
+        "active": "5",
+        "recovery": "9",
+        "on-block": "-2",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2s",
+        "damage": "38[30]",
+        "guard": "low",
+        "startup": "12",
+        "active": "4",
+        "recovery": "20",
+        "on-block": "-7[-10]",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2h",
+        "damage": "46[36]",
+        "guard": "all",
+        "startup": "14",
+        "active": "none",
+        "recovery": "none",
+        "on-block": "-15[-17]",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2d",
+        "damage": "36",
+        "guard": "low",
+        "startup": "10",
+        "active": "6",
+        "recovery": "19",
+        "on-block": "-8",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.p",
+        "damage": "20",
+        "guard": "high",
+        "startup": "5",
+        "active": "4",
+        "recovery": "8",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.k",
+        "damage": "22",
+        "guard": "high",
+        "startup": "7",
+        "active": "4",
+        "recovery": "13",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.s",
+        "damage": "30[24]",
+        "guard": "high",
+        "startup": "12",
+        "active": "4",
+        "recovery": "24",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.h",
+        "damage": "40[32]",
+        "guard": "high",
+        "startup": "16",
+        "active": "6",
+        "recovery": "31",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.d",
+        "damage": "16*3",
+        "guard": "high",
+        "startup": "10",
+        "active": "none",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "ground throw",
+        "damage": "80",
+        "guard": "ground throw",
+        "startup": "2",
+        "active": "3",
+        "recovery": "38",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "air throw",
+        "damage": "80",
+        "guard": "air throw",
+        "startup": "2",
+        "active": "3",
+        "recovery": "until landing+10",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "dauro",
+        "damage": "35",
+        "guard": "all",
+        "startup": "11",
+        "active": "3",
+        "recovery": "27",
+        "on-block": "-10",
+        "invulnerability": "none"
+    },
+    {
+        "command": "erarlumo p",
+        "damage": "30",
+        "guard": "all",
+        "startup": "20",
+        "active": "7",
+        "recovery": "21",
+        "on-block": "-9",
+        "invulnerability": "none"
+    },
+    {
+        "command": "erarlumo pp",
+        "damage": "35[50]",
+        "guard": "all",
+        "startup": "12",
+        "active": "4",
+        "recovery": "41",
+        "on-block": "-13[-2]",
+        "invulnerability": "none"
+    },
+    {
+        "command": "erarlumo ppp",
+        "damage": "40[70]",
+        "guard": "all",
+        "startup": "22",
+        "active": "6",
+        "recovery": "32",
+        "on-block": "-19",
+        "invulnerability": "none"
+    },
+    {
+        "command": "sildo detruo k",
+        "damage": "40",
+        "guard": "high",
+        "startup": "30",
+        "active": "2",
+        "recovery": "18",
+        "on-block": "-3",
+        "invulnerability": "1~9f strike"
+    },
+    {
+        "command": "sildo detruo j.k",
+        "damage": "40",
+        "guard": "high",
+        "startup": "30",
+        "active": "until landing",
+        "recovery": "none",
+        "on-block": "-7~-4",
+        "invulnerability": "none"
+    },
+    {
+        "command": "bajoneto s",
+        "damage": "30,35",
+        "guard": "all",
+        "startup": "20",
+        "active": "none",
+        "recovery": "37",
+        "on-block": "+9",
+        "invulnerability": "none"
+    },
+    {
+        "command": "bajoneto h",
+        "damage": "30,35",
+        "guard": "all",
+        "startup": "20",
+        "active": "none",
+        "recovery": "43",
+        "on-block": "+3",
+        "invulnerability": "none"
+    },
+    {
+        "command": "agresa ordono",
+        "damage": "30,30[24,30][30,24]{24,24}",
+        "guard": "all",
+        "startup": "12",
+        "active": "4(10)4",
+        "recovery": "24",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "sabrobato",
+        "damage": "100[75]{50}",
+        "guard": "all (guard crush)",
+        "startup": "19",
+        "active": "4",
+        "recovery": "42",
+        "on-block": "-27[-27]{-32}",
+        "invulnerability": "none"
+    },
+    {
+        "command": "calvados",
+        "damage": "4*29,40",
+        "guard": "all",
+        "startup": "11+13",
+        "active": "none",
+        "recovery": "none",
+        "on-block": "-70",
+        "invulnerability": "none"
+    },
+    {   "command": "mortobato",
+        "damage": "160[130]{100}",
+        "guard": "all",
+        "startup": "7+2",
+        "active": "none",
+        "recovery": "none",
+        "on-block": "-30[-30]{-35}",
+        "invulnerability": "none"
+    }
+]

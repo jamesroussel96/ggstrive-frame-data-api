@@ -1,0 +1,308 @@
+[    {
+        "command": "5p",
+        "damage": "23",
+        "guard": "all",
+        "startup": "5",
+        "active": "4",
+        "recovery": "8",
+        "on-block": "-2",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5k",
+        "damage": "27",
+        "guard": "all",
+        "startup": "7",
+        "active": "6",
+        "recovery": "13",
+        "on-block": "-7",
+        "invulnerability": "none"
+    },
+    {
+        "command": "c.s",
+        "damage": "39",
+        "guard": "all",
+        "startup": "7",
+        "active": "6",
+        "recovery": "13",
+        "on-block": "-2",
+        "invulnerability": "none"
+    },
+    {
+        "command": "f.s",
+        "damage": "32",
+        "guard": "all",
+        "startup": "11",
+        "active": "6",
+        "recovery": "17",
+        "on-block": "-9",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5h",
+        "damage": "24,24",
+        "guard": "all",
+        "startup": "10",
+        "active": "3(3)2",
+        "recovery": "23",
+        "on-block": "-6",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5d",
+        "damage": "45[56]",
+        "guard": "high",
+        "startup": "20[28]",
+        "active": "3",
+        "recovery": "26",
+        "on-block": "-15[-10]",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6p",
+        "damage": "28",
+        "guard": "all",
+        "startup": "10",
+        "active": "6",
+        "recovery": "20",
+        "on-block": "-12",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6h",
+        "damage": "20,40",
+        "guard": "all",
+        "startup": "8,19",
+        "active": "2(9)11",
+        "recovery": "14",
+        "on-block": "-6",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2p",
+        "damage": "21",
+        "guard": "all",
+        "startup": "6",
+        "active": "4",
+        "recovery": "9",
+        "on-block": "-3",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2k",
+        "damage": "24",
+        "guard": "low",
+        "startup": "7",
+        "active": "3",
+        "recovery": "14",
+        "on-block": "-5",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2s",
+        "damage": "31",
+        "guard": "all",
+        "startup": "9",
+        "active": "7",
+        "recovery": "22",
+        "on-block": "-15",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2h",
+        "damage": "41",
+        "guard": "all",
+        "startup": "15",
+        "active": "6",
+        "recovery": "18",
+        "on-block": "-5",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2d",
+        "damage": "29",
+        "guard": "low",
+        "startup": "11",
+        "active": "15",
+        "recovery": "18",
+        "on-block": "-19",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.p",
+        "damage": "19",
+        "guard": "high",
+        "startup": "6",
+        "active": "4",
+        "recovery": "6",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.k",
+        "damage": "23",
+        "guard": "high",
+        "startup": "7",
+        "active": "6",
+        "recovery": "12",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.s",
+        "damage": "28",
+        "guard": "high",
+        "startup": "11",
+        "active": "5",
+        "recovery": "21",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.h",
+        "damage": "20,15",
+        "guard": "high",
+        "startup": "11",
+        "active": "3,3",
+        "recovery": "32",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.d",
+        "damage": "30",
+        "guard": "high",
+        "startup": "21",
+        "active": "none",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "ground throw",
+        "damage": "80",
+        "guard": "ground throw",
+        "startup": "2",
+        "active": "3",
+        "recovery": "38",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "air throw",
+        "damage": "80",
+        "guard": "air throw",
+        "startup": "2",
+        "active": "3",
+        "recovery": "until landing+10",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "summon servant p",
+        "damage": "none",
+        "guard": "none",
+        "startup": "10",
+        "active": "none",
+        "recovery": "25",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "summon servant [p]",
+        "damage": "none",
+        "guard": "none",
+        "startup": "none",
+        "active": "none",
+        "recovery": "214",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "pick up servant",
+        "damage": "none",
+        "guard": "none",
+        "startup": "none",
+        "active": "none",
+        "recovery": "14",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "release servant",
+        "damage": "none",
+        "guard": "none",
+        "startup": "none",
+        "active": "none",
+        "recovery": "11",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "recover servant",
+        "damage": "none",
+        "guard": "none",
+        "startup": "3+7",
+        "active": "none",
+        "recovery": "24",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "attack command",
+        "damage": "50",
+        "guard": "all",
+        "startup": "3+10",
+        "active": "6",
+        "recovery": "24",
+        "on-block": "+15",
+        "invulnerability": "none"
+    },
+    {
+        "command": "defend command",
+        "damage": "none",
+        "guard": "none",
+        "startup": "3+1",
+        "active": "28",
+        "recovery": "24",
+        "on-block": "+31",
+        "invulnerability": "none"
+    },
+    {
+        "command": "countdown",
+        "damage": "80",
+        "guard": "all",
+        "startup": "3+180+26",
+        "active": "19",
+        "recovery": "24",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {   "command": "servant shoot",
+        "damage": "31",
+        "guard": "all",
+        "startup": "15",
+        "active": "3",
+        "recovery": "26",
+        "on-block": "-12",
+        "invulnerability": "none"
+    },
+    {   "command": "forever elysion driver",
+        "damage": "179",
+        "guard": "ground throw",
+        "startup": "10+[10]+1",
+        "active": "2",
+        "recovery": "58",
+        "on-block": "none",
+        "invulnerability": "all 1~12f, throw 1~55f"
+    },
+    {   "command": "cheer servant on s,h",
+        "damage": "none",
+        "guard": "none",
+        "startup": "3",
+        "active": "none",
+        "recovery": "13",
+        "on-block": "none",
+        "invulnerability": "none"
+    }
+]

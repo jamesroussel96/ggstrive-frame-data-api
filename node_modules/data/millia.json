@@ -1,0 +1,309 @@
+[    {
+        "command": "5p",
+        "damage": "20",
+        "guard": "all",
+        "startup": "7",
+        "active": "5",
+        "recovery": "7",
+        "on-block": "-2",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5k",
+        "damage": "24",
+        "guard": "all",
+        "startup": "7",
+        "active": "3",
+        "recovery": "12",
+        "on-block": "-3",
+        "invulnerability": "none"
+    },
+    {
+        "command": "c.s",
+        "damage": "15*2",
+        "guard": "all",
+        "startup": "7",
+        "active": "3,3",
+        "recovery": "16",
+        "on-block": "-2",
+        "invulnerability": "none"
+    },
+    {
+        "command": "f.s",
+        "damage": "30",
+        "guard": "all",
+        "startup": "10",
+        "active": "2",
+        "recovery": "19",
+        "on-block": "-7",
+        "invulnerability": "27~30f head"
+    },
+    {
+        "command": "5h",
+        "damage": "42",
+        "guard": "all",
+        "startup": "12",
+        "active": "4",
+        "recovery": "23",
+        "on-block": "-8",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5d",
+        "damage": "40[50]",
+        "guard": "high",
+        "startup": "20[28]",
+        "active": "3",
+        "recovery": "26",
+        "on-block": "-15[-10]",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6p",
+        "damage": "26",
+        "guard": "all",
+        "startup": "9",
+        "active": "9",
+        "recovery": "16",
+        "on-block": "-11",
+        "invulnerability": "1~2f upper body,3~11f above knees"
+    },
+    {
+        "command": "6k",
+        "damage": "35",
+        "guard": "high",
+        "startup": "28",
+        "active": "2",
+        "recovery": "11",
+        "on-block": "+1",
+        "invulnerability": "13~29f below knee"
+    },
+    {
+        "command": "6h",
+        "damage": "20,40",
+        "guard": "all",
+        "startup": "17",
+        "active": "5(16)4",
+        "recovery": "23",
+        "on-block": "-8",
+        "invulnerability": "9~21f airborne"
+    },
+    {
+        "command": "2p",
+        "damage": "18",
+        "guard": "all",
+        "startup": "6",
+        "active": "2",
+        "recovery": "10",
+        "on-block": "-2",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2k",
+        "damage": "18",
+        "guard": "low",
+        "startup": "6",
+        "active": "3",
+        "recovery": "12",
+        "on-block": "-3",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2s",
+        "damage": "28",
+        "guard": "low",
+        "startup": "11",
+        "active": "2",
+        "recovery": "18",
+        "on-block": "-6",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2h",
+        "damage": "45",
+        "guard": "all",
+        "startup": "14",
+        "active": "7",
+        "recovery": "17",
+        "on-block": "-7",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2d",
+        "damage": "30",
+        "guard": "low",
+        "startup": "12",
+        "active": "3",
+        "recovery": "22",
+        "on-block": "-11",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.p",
+        "damage": "16",
+        "guard": "high",
+        "startup": "5",
+        "active": "4",
+        "recovery": "12",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.k",
+        "damage": "20",
+        "guard": "high",
+        "startup": "6",
+        "active": "4",
+        "recovery": "12",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.s",
+        "damage": "32",
+        "guard": "high",
+        "startup": "7",
+        "active": "4",
+        "recovery": "14",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.h",
+        "damage": "35",
+        "guard": "high",
+        "startup": "8",
+        "active": "10",
+        "recovery": "25",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.d",
+        "damage": "35",
+        "guard": "high",
+        "startup": "9",
+        "active": "7",
+        "recovery": "27",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "ground throw",
+        "damage": "0,70",
+        "guard": "ground throw",
+        "startup": "2",
+        "active": "3",
+        "recovery": "42",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "air throw",
+        "damage": "0,40,30",
+        "guard": "air throw",
+        "startup": "2",
+        "active": "3",
+        "recovery": "until landing+10",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "tandem top s",
+        "damage": "35",
+        "guard": "all",
+        "startup": "15",
+        "active": "14",
+        "recovery": "48",
+        "on-block": "-14",
+        "invulnerability": "9~41f airborne, 42~45f below knee"
+    },
+    {
+        "command": "tandem top h",
+        "damage": "32*2",
+        "guard": "all",
+        "startup": "73",
+        "active": "34",
+        "recovery": "55",
+        "on-block": "-14",
+        "invulnerability": "18f onwards airborne"
+    },
+    {
+        "command": "bad moon",
+        "damage": "5*x,13",
+        "guard": "high",
+        "startup": "11",
+        "active": "until ground",
+        "recovery": "20+12 landing",
+        "on-block": "-21",
+        "invulnerability": "none"
+    },
+    {
+        "command": "iron savior",
+        "damage": "43",
+        "guard": "low",
+        "startup": "20",
+        "active": "until corner",
+        "recovery": "17+10 until landing",
+        "on-block": "-12",
+        "invulnerability": "10f onwards airborne"
+    },
+    {
+        "command": "turbo fall",
+        "damage": "none",
+        "guard": "none",
+        "startup": "14",
+        "active": "none",
+        "recovery": "12f after landing",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "mirzah",
+        "damage": "none",
+        "guard": "none",
+        "startup": "none",
+        "active": "none",
+        "recovery": "28",
+        "on-block": "none",
+        "invulnerability": "1~4f upper body, 5~25f above knee"
+    },
+    {
+        "command": "lust shaker",
+        "damage": "7*3~9",
+        "guard": "all",
+        "startup": "17",
+        "active": "1[(3)1]*2~8",
+        "recovery": "16",
+        "on-block": "-5,-7,-9",
+        "invulnerability": "none"
+    },
+    {
+        "command": "kapel",
+        "damage": "30",
+        "guard": "all",
+        "startup": "13",
+        "active": "none",
+        "recovery": "30",
+        "on-block": "-4f at lowest height",
+        "invulnerability": "1~12f lower body"
+    },
+    {   "command": "winger",
+        "damage": "20*5,60",
+        "guard": "mid*5,high",
+        "startup": "6+1",
+        "active": "10(9)15",
+        "recovery": "30",
+        "on-block": "-22",
+        "invulnerability": "1~8f full, 7~40f airborne"
+    },
+    {   "command": "septem voices",
+        "damage": "20*2,60",
+        "guard": "all",
+        "startup": "4+5",
+        "active": "until corner",
+        "recovery": "43",
+        "on-block": "+8",
+        "invulnerability": "9-26f airborne"
+    }
+]

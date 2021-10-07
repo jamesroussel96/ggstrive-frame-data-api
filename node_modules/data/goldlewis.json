@@ -1,0 +1,482 @@
+[    {
+        "command": "5p",
+        "damage": "26",
+        "guard": "all",
+        "startup": "7",
+        "active": "3",
+        "recovery": "6",
+        "on-block": "+3",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5k",
+        "damage": "33",
+        "guard": "low",
+        "startup": "10",
+        "active": "9",
+        "recovery": "12",
+        "on-block": "-7",
+        "invulnerability": "none"
+    },
+    {
+        "command": "c.s",
+        "damage": "39",
+        "guard": "all",
+        "startup": "7",
+        "active": "6",
+        "recovery": "15",
+        "on-block": "-2",
+        "invulnerability": "none"
+    },
+    {
+        "command": "f.s",
+        "damage": "31",
+        "guard": "all",
+        "startup": "10",
+        "active": "3",
+        "recovery": "18",
+        "on-block": "-7",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5h",
+        "damage": "41",
+        "guard": "all",
+        "startup": "19",
+        "active": "6",
+        "recovery": "15",
+        "on-block": "-2",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5d",
+        "damage": "50[62]",
+        "guard": "high",
+        "startup": "20[28]",
+        "active": "3",
+        "recovery": "26",
+        "on-block": "-15[-10]",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6p",
+        "damage": "39",
+        "guard": "all",
+        "startup": "12",
+        "active": "6",
+        "recovery": "27",
+        "on-block": "-19",
+        "invulnerability": "1~2f upper body, 3~13F above knees"
+    },
+    {
+        "command": "6h",
+        "damage": "65",
+        "guard": "all",
+        "startup": "25",
+        "active": "3",
+        "recovery": "30",
+        "on-block": "-14",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2p",
+        "damage": "23",
+        "guard": "all",
+        "startup": "6",
+        "active": "3",
+        "recovery": "6",
+        "on-block": "+3",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2k",
+        "damage": "26",
+        "guard": "low",
+        "startup": "8",
+        "active": "3",
+        "recovery": "13",
+        "on-block": "-5",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2s",
+        "damage": "29",
+        "guard": "all",
+        "startup": "13",
+        "active": "3",
+        "recovery": "20",
+        "on-block": "-9",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2h",
+        "damage": "43",
+        "guard": "all",
+        "startup": "20",
+        "active": "4",
+        "recovery": "30",
+        "on-block": "-15",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2d",
+        "damage": "34",
+        "guard": "low",
+        "startup": "14",
+        "active": "3",
+        "recovery": "24",
+        "on-block": "-10",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.p",
+        "damage": "25",
+        "guard": "high",
+        "startup": "6",
+        "active": "3",
+        "recovery": "12",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.k",
+        "damage": "29",
+        "guard": "high",
+        "startup": "9",
+        "active": "4",
+        "recovery": "17",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.s",
+        "damage": "37",
+        "guard": "high",
+        "startup": "11",
+        "active": "11",
+        "recovery": "13",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.h",
+        "damage": "43",
+        "guard": "high",
+        "startup": "15",
+        "active": "4",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.d",
+        "damage": "47",
+        "guard": "high",
+        "startup": "15",
+        "active": "10",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "ground throw",
+        "damage": "80",
+        "guard": "ground throw",
+        "startup": "2",
+        "active": "3",
+        "recovery": "38",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "air throw",
+        "damage": "80",
+        "guard": "air throw",
+        "startup": "2",
+        "active": "3",
+        "recovery": "until landing+10",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (426) h",
+        "damage": "70",
+        "guard": "all(guard crush)",
+        "startup": "12",
+        "active": "20",
+        "recovery": "18",
+        "on-block": "+12",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (426) j.h",
+        "damage": "70",
+        "guard": "all",
+        "startup": "12",
+        "active": "20",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (624) h",
+        "damage": "70",
+        "guard": "all(guard crush)",
+        "startup": "12",
+        "active": "20",
+        "recovery": "21",
+        "on-block": "-5",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (624) j.h",
+        "damage": "70",
+        "guard": "all",
+        "startup": "12",
+        "active": "20",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (268) h",
+        "damage": "70",
+        "guard": "all(guard crush)",
+        "startup": "12",
+        "active": "15",
+        "recovery": "18",
+        "on-block": "+3~12",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (268) j.h",
+        "damage": "70",
+        "guard": "all",
+        "startup": "12",
+        "active": "15",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (248) h",
+        "damage": "70",
+        "guard": "low(guard crush)",
+        "startup": "12",
+        "active": "15",
+        "recovery": "18",
+        "on-block": "+3",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (248) j.h",
+        "damage": "70",
+        "guard": "all",
+        "startup": "12",
+        "active": "15",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (684) h",
+        "damage": "70",
+        "guard": "all(guarc crush)",
+        "startup": "12",
+        "active": "20",
+        "recovery": "21",
+        "on-block": "-5",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (684) j.h",
+        "damage": "70",
+        "guard": "all",
+        "startup": "12",
+        "active": "20",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (486) h",
+        "damage": "70",
+        "guard": "high(guard crush)",
+        "startup": "12",
+        "active": "20",
+        "recovery": "18",
+        "on-block": "+14~15",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (486) j.h",
+        "damage": "70",
+        "guard": "all",
+        "startup": "12",
+        "active": "20",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (842) h",
+        "damage": "70",
+        "guard": "low(guard crush)",
+        "startup": "12",
+        "active": "15",
+        "recovery": "18",
+        "on-block": "+16",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (842) j.h",
+        "damage": "70",
+        "guard": "all",
+        "startup": "12",
+        "active": "15",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (862) h",
+        "damage": "70",
+        "guard": "high(guard crush)",
+        "startup": "12",
+        "active": "15",
+        "recovery": "18",
+        "on-block": "+12",
+        "invulnerability": "none"
+    },
+    {
+        "command": "behemoth typhoon (248) j.h",
+        "damage": "70",
+        "guard": "all",
+        "startup": "12",
+        "active": "20",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "thunderbird level 1",
+        "damage": "33",
+        "guard": "all",
+        "startup": "57",
+        "active": "none",
+        "recovery": "43",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "thunderbird level 2",
+        "damage": "40",
+        "guard": "all",
+        "startup": "57",
+        "active": "none",
+        "recovery": "43",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "thunderbird level 3",
+        "damage": "47",
+        "guard": "all",
+        "startup": "57",
+        "active": "none",
+        "recovery": "43",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "skyfish level 1",
+        "damage": "2*10",
+        "guard": "all",
+        "startup": "34",
+        "active": "none",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "skyfish level 2",
+        "damage": "2*20",
+        "guard": "all",
+        "startup": "34",
+        "active": "none",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "skyfish level 3",
+        "damage": "2*30",
+        "guard": "all",
+        "startup": "34",
+        "active": "none",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "down with the system 632146p",
+        "damage": "160[160,25]",
+        "guard": "all",
+        "startup": "6+135+4",
+        "active": "5",
+        "recovery": "46",
+        "on-block": "-33",
+        "invulnerability": "1~14f all"
+    },
+    {
+        "command": "down with the system 720p",
+        "damage": "175[160,25*2]",
+        "guard": "all",
+        "startup": "11+191+4",
+        "active": "5",
+        "recovery": "46",
+        "on-block": "-33",
+        "invulnerability": "1~19f all"
+    },
+    {
+        "command": "down with the system 1080p",
+        "damage": "190[160,25*3]",
+        "guard": "all",
+        "startup": "16+230+4",
+        "active": "5",
+        "recovery": "46",
+        "on-block": "-33",
+        "invulnerability": "1~24f all"
+    },
+    {
+        "command": "burn it down level 1",
+        "damage": "8*5",
+        "guard": "all",
+        "startup": "13+79+80",
+        "active": "32",
+        "recovery": "40",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "burn it down level 2",
+        "damage": "8*10",
+        "guard": "all",
+        "startup": "13+79+80",
+        "active": "52",
+        "recovery": "40",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "burn it down level 1",
+        "damage": "8*15",
+        "guard": "all",
+        "startup": "13+79+80",
+        "active": "72",
+        "recovery": "40",
+        "on-block": "none",
+        "invulnerability": "none"
+    }
+]
+ 

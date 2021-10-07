@@ -1,0 +1,450 @@
+[    {
+        "command": "5p",
+        "damage": "26",
+        "guard": "all",
+        "startup": "5",
+        "active": "4",
+        "recovery": "9",
+        "on-block": "0",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5k",
+        "damage": "34",
+        "guard": "all",
+        "startup": "7",
+        "active": "2",
+        "recovery": "12",
+        "on-block": "0",
+        "invulnerability": "none"
+    },
+    {
+        "command": "c.s",
+        "damage": "40",
+        "guard": "all",
+        "startup": "7",
+        "active": "6",
+        "recovery": "10",
+        "on-block": "+3",
+        "invulnerability": "none"
+    },
+    {
+        "command": "f.s",
+        "damage": "25",
+        "guard": "all",
+        "startup": "16",
+        "active": "3",
+        "recovery": "28",
+        "on-block": "-17",
+        "invulnerability": "none"
+    },
+    {
+        "command": "f.ss",
+        "damage": "25",
+        "guard": "all",
+        "startup": "13",
+        "active": "3",
+        "recovery": "19",
+        "on-block": "-8",
+        "invulnerability": "none"
+    },
+    {
+        "command": "f.sss",
+        "damage": "25[80]",
+        "guard": "all",
+        "startup": "14",
+        "active": "6",
+        "recovery": "38",
+        "on-block": "-25",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5h level 1",
+        "damage": "60",
+        "guard": "all",
+        "startup": "20",
+        "active": "6",
+        "recovery": "27",
+        "on-block": "-14",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5h level 2",
+        "damage": "65",
+        "guard": "all",
+        "startup": "18",
+        "active": "6",
+        "recovery": "27",
+        "on-block": "-14",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5h level 3",
+        "damage": "70",
+        "guard": "all",
+        "startup": "16",
+        "active": "6",
+        "recovery": "27",
+        "on-block": "-14",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5h level br",
+        "damage": "91",
+        "guard": "all",
+        "startup": "16",
+        "active": "6",
+        "recovery": "27",
+        "on-block": "-14",
+        "invulnerability": "none"
+    },
+    {
+        "command": "5d",
+        "damage": "50[62]",
+        "guard": "high",
+        "startup": "20[28]",
+        "active": "3",
+        "recovery": "26",
+        "on-block": "-15[-10]",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6p",
+        "damage": "34",
+        "guard": "all",
+        "startup": "12",
+        "active": "5",
+        "recovery": "15",
+        "on-block": "-6",
+        "invulnerability": "1~3f upper body, 4~17f above knees"
+    },
+    {
+        "command": "6k",
+        "damage": "35",
+        "guard": "low",
+        "startup": "15",
+        "active": "3",
+        "recovery": "15",
+        "on-block": "-4",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6h level 1",
+        "damage": "70",
+        "guard": "all",
+        "startup": "17",
+        "active": "6",
+        "recovery": "30",
+        "on-block": "-17",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6h level 2",
+        "damage": "80",
+        "guard": "all",
+        "startup": "16",
+        "active": "6",
+        "recovery": "30",
+        "on-block": "-17",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6h level 3",
+        "damage": "90",
+        "guard": "all",
+        "startup": "15",
+        "active": "6",
+        "recovery": "30",
+        "on-block": "-17",
+        "invulnerability": "none"
+    },
+    {
+        "command": "6h level br",
+        "damage": "117",
+        "guard": "all",
+        "startup": "15",
+        "active": "6",
+        "recovery": "30",
+        "on-block": "-17",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2p",
+        "damage": "22",
+        "guard": "all",
+        "startup": "6",
+        "active": "3",
+        "recovery": "11",
+        "on-block": "-2",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2k",
+        "damage": "26",
+        "guard": "low",
+        "startup": "7",
+        "active": "5",
+        "recovery": "8",
+        "on-block": "-1",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2s",
+        "damage": "34",
+        "guard": "low",
+        "startup": "12",
+        "active": "4",
+        "recovery": "15",
+        "on-block": "-5",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2h level 1",
+        "damage": "50",
+        "guard": "all",
+        "startup": "19",
+        "active": "7",
+        "recovery": "29",
+        "on-block": "-17",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2h level 2",
+        "damage": "55",
+        "guard": "all",
+        "startup": "17",
+        "active": "7",
+        "recovery": "29",
+        "on-block": "-17",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2h level 3",
+        "damage": "60",
+        "guard": "all",
+        "startup": "15",
+        "active": "7",
+        "recovery": "29",
+        "on-block": "-17",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2h level br",
+        "damage": "78",
+        "guard": "all",
+        "startup": "15",
+        "active": "7",
+        "recovery": "29",
+        "on-block": "-17",
+        "invulnerability": "none"
+    },
+    {
+        "command": "2d",
+        "damage": "30",
+        "guard": "low",
+        "startup": "12",
+        "active": "3",
+        "recovery": "18",
+        "on-block": "-7",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.p",
+        "damage": "20",
+        "guard": "high",
+        "startup": "7",
+        "active": "3",
+        "recovery": "12",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.k",
+        "damage": "26",
+        "guard": "high",
+        "startup": "7",
+        "active": "3",
+        "recovery": "19",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.s",
+        "damage": "35",
+        "guard": "high",
+        "startup": "13",
+        "active": "3",
+        "recovery": "20",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.h level 1",
+        "damage": "41",
+        "guard": "high",
+        "startup": "16",
+        "active": "4",
+        "recovery": "23",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.h level 2",
+        "damage": "43",
+        "guard": "high",
+        "startup": "15",
+        "active": "4",
+        "recovery": "23",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.h level 3",
+        "damage": "45",
+        "guard": "high",
+        "startup": "14",
+        "active": "4",
+        "recovery": "23",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.h level br",
+        "damage": "58",
+        "guard": "high",
+        "startup": "14",
+        "active": "4",
+        "recovery": "23",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "j.d",
+        "damage": "55",
+        "guard": "high",
+        "startup": "15",
+        "active": "3",
+        "recovery": "20",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "ground throw",
+        "damage": "90",
+        "guard": "ground throw",
+        "startup": "2",
+        "active": "3",
+        "recovery": "38",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "air throw",
+        "damage": "90",
+        "guard": "air throw",
+        "startup": "2",
+        "active": "3",
+        "recovery": "until landing+10",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "zarameyuki",
+        "damage": "45",
+        "guard": "all",
+        "startup": "23",
+        "active": "26",
+        "recovery": "44",
+        "on-block": "+5",
+        "invulnerability": "none"
+    },
+    {
+        "command": "fukyo 236k",
+        "damage": "none",
+        "guard": "none",
+        "startup": "1",
+        "active": "none",
+        "recovery": "25",
+        "on-block": "none",
+        "invulnerability": "1~25f above chest"
+    },
+    {
+        "command": "fukyo 214k",
+        "damage": "none",
+        "guard": "none",
+        "startup": "1",
+        "active": "none",
+        "recovery": "16",
+        "on-block": "none",
+        "invulnerability": "1~16f above chest"
+    },
+    {
+        "command": "kamuriyuki",
+        "damage": "50",
+        "guard": "all",
+        "startup": "14",
+        "active": "5",
+        "recovery": "14",
+        "on-block": "0",
+        "invulnerability": "none"
+    },
+    {
+        "command": "shizuriyuki",
+        "damage": "45,55",
+        "guard": "all",
+        "startup": "13",
+        "active": "3(8)6",
+        "recovery": "29(45 on whiff)",
+        "on-block": "-16",
+        "invulnerability": "1~15f upper body"
+    },
+    {
+        "command": "bloodsucking universe",
+        "damage": "80,90,100",
+        "guard": "ground throw",
+        "startup": "7",
+        "active": "2",
+        "recovery": "48",
+        "on-block": "none",
+        "invulnerability": "1~8f throw"
+    },
+    {
+        "command": "blood rage activation",
+        "damage": "none",
+        "guard": "guard crush",
+        "startup": "4+38+3",
+        "active": "10",
+        "recovery": "70",
+        "on-block": "-7",
+        "invulnerability": "1~15f full after freeze"
+    },
+    {
+        "command": "blood rage deactivation",
+        "damage": "none",
+        "guard": "none",
+        "startup": "1+59",
+        "active": "none",
+        "recovery": "none",
+        "on-block": "none",
+        "invulnerability": "none"
+    },
+    {
+        "command": "wasureyuki",
+        "damage": "70+3*17+60",
+        "guard": "all",
+        "startup": "7+173+2",
+        "active": "2",
+        "recovery": "47",
+        "on-block": "-30",
+        "invulnerability": "1~10f full"
+    },
+    {   "command": "zansetsu",
+        "damage": "200",
+        "guard": "all",
+        "startup": "11+58+10",
+        "active": "6",
+        "recovery": "80",
+        "on-block": "-66",
+        "invulnerability": "1~26f full"
+    }
+]
